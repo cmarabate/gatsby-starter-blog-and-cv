@@ -10,12 +10,13 @@ description: >-
 
   But one of the greatest things about being a programmer is that you can
   automate your routine.
-category: productivity
+category: newcat
 tags:
   - trello
   - gtd
   - chrome
   - plugin
+  - newtag
 ---
 
 You know, I hate routine.
